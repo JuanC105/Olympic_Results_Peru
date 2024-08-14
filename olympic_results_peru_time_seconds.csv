@@ -1,0 +1,38 @@
+discipline_title,event_title,slug_game,participant_type,medal_type,athletes,rank_equal,rank_position,country_name,country_code,country_3_letter_code,athlete_url,athlete_full_name,value_unit,value_type,game_season,game_year,time_seconds
+Alpine Skiing,Women's Giant Slalom,beijing-2022,Athlete,,,False,46.0,Peru,PE,PER,https://olympics.com/en/athletes/ornella-oettl-reyes,Ornella OETTL REYES,0 days 00:02:24.050000,TIME,Winter,2022,144.05
+Alpine Skiing,Women's Slalom,beijing-2022,Athlete,,,False,44.0,Peru,PE,PER,https://olympics.com/en/athletes/ornella-oettl-reyes,Ornella OETTL REYES,0 days 00:02:04.590000,TIME,Winter,2022,124.59
+Athletics,50km walk men,rio-2016,Athlete,,,,48.0,Peru,PE,PER,https://olympics.com/en/athletes/pavel-chihuan,Pavel CHIHUAN,0 days 04:32:37,TIME,Summer,2016,16357.0
+Athletics,marathon women,rio-2016,Athlete,,,,15.0,Peru,PE,PER,https://olympics.com/en/athletes/gladys-tejeda,Gladys TEJEDA,0 days 02:29:55,TIME,Summer,2016,8995.0
+Athletics,marathon women,rio-2016,Athlete,,,,36.0,Peru,PE,PER,https://olympics.com/en/athletes/jovana-de-la-cruz,Jovana DE LA CRUZ,0 days 02:35:49,TIME,Summer,2016,9349.0
+Athletics,marathon men,rio-2016,Athlete,,,,45.0,Peru,PE,PER,https://olympics.com/en/athletes/raul-machacuay,Raul MACHACUAY,0 days 02:18:00,TIME,Summer,2016,8280.0
+Athletics,marathon men,rio-2016,Athlete,,,,52.0,Peru,PE,PER,https://olympics.com/en/athletes/cristhian-pacheco,Cristhian PACHECO,0 days 02:18:41,TIME,Summer,2016,8321.0
+Athletics,marathon men,rio-2016,Athlete,,,,66.0,Peru,PE,PER,https://olympics.com/en/athletes/raul-pacheco,Raul PACHECO,0 days 02:20:13,TIME,Summer,2016,8413.0
+Athletics,20km walk men,rio-2016,Athlete,,,,41.0,Peru,PE,PER,https://olympics.com/en/athletes/paolo-yurivilca,Paolo YURIVILCA,0 days 01:24:48,TIME,Summer,2016,5088.0
+Athletics,20km race walk women,rio-2016,Athlete,,,,14.0,Peru,PE,PER,https://olympics.com/en/athletes/kimberly-garcia,Kimberly GARCIA,0 days 01:32:09,TIME,Summer,2016,5529.0
+Athletics,20km race walk women,rio-2016,Athlete,,,,51.0,Peru,PE,PER,https://olympics.com/en/athletes/jessica-hancco,Jessica HANCCO,0 days 01:39:08,TIME,Summer,2016,5948.0
+Athletics,5000m men,rio-2016,Athlete,,,,15.0,Peru,PE,PER,https://olympics.com/en/athletes/david-torrence,David TORRENCE,0 days 00:13:43.010000,TIME,Summer,2016,823.01
+Athletics,10000m men,rio-2016,Athlete,,,,21.0,Peru,PE,PER,https://olympics.com/en/athletes/luis-ostos,Luis OSTOS,0 days 00:28:02,TIME,Summer,2016,1682.0
+Alpine Skiing,giant slalom women,sochi-2014,Athlete,,,,57.0,Peru,PE,PER,https://olympics.com/en/athletes/ornella-oettl-reyes,Ornella OETTL REYES,0 days 00:03:06.030000,TIME,Winter,2014,186.03
+Alpine Skiing,giant slalom men,sochi-2014,Athlete,,,,70.0,Peru,PE,PER,https://olympics.com/en/athletes/manfred-oettl-reyes,Manfred OETTL REYES,0 days 00:03:20.090000,TIME,Winter,2014,200.09
+Cross Country Skiing,15km men,sochi-2014,Athlete,,,,87.0,Peru,PE,PER,https://olympics.com/en/athletes/roberto-carcelen,Roberto CARCELEN,0 days 01:06:28.090000,TIME,Winter,2014,3988.09
+Athletics,marathon women,london-2012,Athlete,,,,24.0,Peru,PE,PER,https://olympics.com/en/athletes/ines-melchor,Ines MELCHOR,0 days 02:28:54,TIME,Summer,2012,8934.0
+Athletics,marathon women,london-2012,Athlete,,,,42.0,Peru,PE,PER,https://olympics.com/en/athletes/gladys-tejeda,Gladys TEJEDA,0 days 02:32:07,TIME,Summer,2012,9127.0
+Athletics,marathon women,london-2012,Athlete,,,,54.0,Peru,PE,PER,https://olympics.com/en/athletes/wilma-arizapana,Wilma ARIZAPANA,0 days 02:35:09,TIME,Summer,2012,9309.0
+Athletics,marathon men,london-2012,Athlete,,,,21.0,Peru,PE,PER,https://olympics.com/en/athletes/raul-pacheco,Raul PACHECO,0 days 02:15:35,TIME,Summer,2012,8135.0
+Alpine Skiing,giant slalom men,vancouver-2010,Athlete,,,,67.0,Peru,PE,PER,https://olympics.com/en/athletes/manfred-oettl-reyes,Manfred OETTL REYES,0 days 00:03:02,TIME,Winter,2010,182.0
+Cross Country Skiing,15km men,vancouver-2010,Athlete,,,,94.0,Peru,PE,PER,https://olympics.com/en/athletes/roberto-carcelen,Roberto CARCELEN,0 days 00:45:53.060000,TIME,Winter,2010,2753.06
+Athletics,marathon men,beijing-2008,Athlete,,,,61.0,Peru,PE,PER,https://olympics.com/en/athletes/constantino-leon,Constantino LEON,0 days 02:28:04,TIME,Summer,2008,8884.0
+Athletics,marathon women,beijing-2008,Athlete,,,,39.0,Peru,PE,PER,https://olympics.com/en/athletes/maria-portilla,Maria PORTILLA,0 days 02:35:19,TIME,Summer,2008,9319.0
+Athletics,marathon women,sydney-2000,Athlete,,,,32.0,Peru,PE,PER,https://olympics.com/en/athletes/maria-portilla,Maria PORTILLA,0 days 02:36:50,TIME,Summer,2000,9410.0
+Athletics,marathon men,atlanta-1996,Athlete,,,,71.0,Peru,PE,PER,https://olympics.com/en/athletes/miguel-mallqui,Miguel MALLQUI,0 days 02:25:56,TIME,Summer,1996,8756.0
+Athletics,marathon women,atlanta-1996,Athlete,,,,54.0,Peru,PE,PER,https://olympics.com/en/athletes/marilu-salazar,Marilu SALAZAR,0 days 02:48:58,TIME,Summer,1996,10138.0
+Canoe Slalom,K1 kayak single men,barcelona-1992,Athlete,,,,42.0,Peru,PE,PER,https://olympics.com/en/athletes/eric-arenas-centeno,Eric ARENAS CENTENO,0 days 00:00:00.010000,TIME,Summer,1992,0.01
+Athletics,marathon women,barcelona-1992,Athlete,,,,34.0,Peru,PE,PER,https://olympics.com/en/athletes/ena-guevara,Ena GUEVARA,0 days 03:05:50,TIME,Summer,1992,11150.0
+Athletics,marathon women,los-angeles-1984,Athlete,,,,35.0,Peru,PE,PER,https://olympics.com/en/athletes/ena-guevara,Ena GUEVARA,0 days 02:46:50,TIME,Summer,1984,10010.0
+Cycling Road,team time trial men,munich-1972,GameTeam,,,,30.0,Peru,PE,PER,,,0 days 02:30:57.050000,TIME,Summer,1972,9057.05
+Swimming,200m individual medley men,munich-1972,Athlete,,,,7.0,Peru,PE,PER,https://olympics.com/en/athletes/juan-carlos-bello,Juan Carlos BELLO,0 days 00:02:11.080000,TIME,Summer,1972,131.08
+Athletics,pentathlon women,munich-1972,Athlete,,,,24.0,Peru,PE,PER,https://olympics.com/en/athletes/edith-noding,Edith NODING,0 days 00:00:24.040000,TIME,Summer,1972,24.04
+Swimming,200m individual medley men,mexico-city-1968,Athlete,,,,4.0,Peru,PE,PER,https://olympics.com/en/athletes/juan-carlos-bello,Juan Carlos BELLO,0 days 00:02:13.070000,TIME,Summer,1968,133.07
+Athletics,marathon men,berlin-1936,Athlete,,,,26.0,Peru,PE,PER,,Gabriel Mendoza,0 days 02:57:17.080000,TIME,Summer,1936,10637.08
+Athletics,marathon men,berlin-1936,Athlete,,,,35.0,Peru,PE,PER,https://olympics.com/en/athletes/guillermo-suarez,Guillermo SUAREZ,0 days 03:08:18,TIME,Summer,1936,11298.0
+Athletics,marathon men,berlin-1936,Athlete,,,,42.0,Peru,PE,PER,https://olympics.com/en/athletes/jose-farias-rios,José FARIAS RIOS,0 days 03:33:24,TIME,Summer,1936,12804.0

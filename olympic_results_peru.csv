@@ -1,0 +1,339 @@
+discipline_title,event_title,slug_game,participant_type,medal_type,athletes,rank_equal,rank_position,country_name,country_code,country_3_letter_code,athlete_url,athlete_full_name,value_unit,value_type
+Alpine Skiing,Women's Giant Slalom,beijing-2022,Athlete,,,False,46,Peru,PE,PER,https://olympics.com/en/athletes/ornella-oettl-reyes,Ornella OETTL REYES,2:24.05,TIME
+Alpine Skiing,Women's Slalom,beijing-2022,Athlete,,,False,44,Peru,PE,PER,https://olympics.com/en/athletes/ornella-oettl-reyes,Ornella OETTL REYES,2:04.59,TIME
+Shooting,25m Rapid Fire Pistol Men,tokyo-2020,Athlete,,,False,18,Peru,PE,PER,https://olympics.com/en/athletes/marko-carrillo,Marko CARRILLO,,
+Shooting,Trap Men,tokyo-2020,Athlete,,,False,27,Peru,PE,PER,https://olympics.com/en/athletes/alessandro-de-souza-ferreira,Alessandro DE SOUZA FERREIRA,,
+Shooting,10m Air Pistol Men,tokyo-2020,Athlete,,,False,29,Peru,PE,PER,https://olympics.com/en/athletes/marko-carrillo,Marko CARRILLO,,
+Shooting,Skeet Men,tokyo-2020,Athlete,,,False,8,Peru,PE,PER,https://olympics.com/en/athletes/nicolas-pacheco-espinosa,Nicolas PACHECO ESPINOSA,,
+Cycling Road,Men's Road Race,tokyo-2020,Athlete,,,False,DNF,Peru,PE,PER,https://olympics.com/en/athletes/royner-navarro-calle,Royner NAVARRO CALLE,,IRM
+Boxing,Men's Heavy (81-91kg),tokyo-2020,Athlete,,,True,9,Peru,PE,PER,https://olympics.com/en/athletes/jose-maria-lucar-jaimes,Jose Maria LUCAR JAIMES,,
+Boxing,Men's Light (57-63kg),tokyo-2020,Athlete,,,True,17,Peru,PE,PER,https://olympics.com/en/athletes/leodan-pezo-saboya,Leodan PEZO SABOYA,,
+Surfing,Women,tokyo-2020,Athlete,,,True,9,Peru,PE,PER,https://olympics.com/en/athletes/sofia-mulanovich-x8184,Sofia MULANOVICH,,
+Surfing,Women,tokyo-2020,Athlete,,,True,19,Peru,PE,PER,https://olympics.com/en/athletes/daniella-rosas,Daniella ROSAS,,
+Fencing,Women's Épée Individual,tokyo-2020,Athlete,,,False,28,Peru,PE,PER,https://olympics.com/en/athletes/maria-luisa-doig,Maria Luisa DOIG,,
+Badminton,Women's Singles,tokyo-2020,Athlete,,,True,15,Peru,PE,PER,https://olympics.com/en/athletes/daniela-macias,Daniela MACIAS,,
+Wrestling,Men's Freestyle 86kg,tokyo-2020,Athlete,,,False,15,Peru,PE,PER,https://olympics.com/en/athletes/pool-edinson-ambrocio-greifo,Pool Edinson AMBROCIO GREIFO,,
+Tennis,Men's Singles,tokyo-2020,Athlete,,,True,33,Peru,PE,PER,https://olympics.com/en/athletes/juan-pablo-varillas,Juan Pablo VARILLAS,,
+Judo,Men -66 kg,tokyo-2020,Athlete,,,True,17,Peru,PE,PER,https://olympics.com/en/athletes/juan-postigos,Juan POSTIGOS,,
+Skateboarding,Men's Street,tokyo-2020,Athlete,,,False,5,Peru,PE,PER,https://olympics.com/en/athletes/angelo-caro-narvaez,Angelo CARO NARVAEZ,32.87,POINTS
+Weightlifting,Men's 61kg,tokyo-2020,Athlete,,,False,12,Peru,PE,PER,https://olympics.com/en/athletes/marcos-antonio-rojas-concha,Marcos Antonio ROJAS CONCHA,240,WEIGHT
+Athletics,Men's Marathon,tokyo-2020,Athlete,,,False,60,Peru,PE,PER,https://olympics.com/en/athletes/cristhian-pacheco,Cristhian PACHECO,,
+Athletics,Women's Marathon,tokyo-2020,Athlete,,,False,40,Peru,PE,PER,https://olympics.com/en/athletes/jovana-de-la-cruz,Jovana DE LA CRUZ,,
+Athletics,Women's Marathon,tokyo-2020,Athlete,,,False,27,Peru,PE,PER,https://olympics.com/en/athletes/gladys-tejeda,Gladys TEJEDA,,
+Athletics,Women's 20km Race Walk,tokyo-2020,Athlete,,,False,DNF,Peru,PE,PER,https://olympics.com/en/athletes/kimberly-garcia,Kimberly GARCIA,,IRM
+Athletics,Women's 20km Race Walk,tokyo-2020,Athlete,,,False,24,Peru,PE,PER,https://olympics.com/en/athletes/mary-luz-andia,Mary Luz ANDIA,,
+Athletics,Women's 20km Race Walk,tokyo-2020,Athlete,,,False,36,Peru,PE,PER,https://olympics.com/en/athletes/leydi-guerra,Leydi GUERRA,,
+Athletics,Men's 20km Race Walk,tokyo-2020,Athlete,,,False,21,Peru,PE,PER,https://olympics.com/en/athletes/cesar-rodriguez,Cesar RODRIGUEZ,,
+Athletics,Men's 20km Race Walk,tokyo-2020,Athlete,,,False,43,Peru,PE,PER,https://olympics.com/en/athletes/luis-henry-campos,Luis Henry CAMPOS,,
+Sailing,Laser Radial Women,tokyo-2020,Athlete,,,False,36,Peru,PE,PER,https://olympics.com/en/athletes/paloma-schmidt-gutierrez,Paloma SCHMIDT GUTIERREZ,265,POINTS
+Sailing,49er FX Women,tokyo-2020,GameTeam,,"[('Diana TUDELA BALLON', 'https://olympics.com/en/athletes/diana-tudela-ballon'), ('Maria Pia VAN OORDT LOPEZ', 'https://olympics.com/en/athletes/maria-pia-van-oordt-lopez')]",False,20,Peru,PE,PER,,,174,POINTS
+Sailing,Laser Men,tokyo-2020,Athlete,,,False,25,Peru,PE,PER,https://olympics.com/en/athletes/stefano-peschiera,Stefano PESCHIERA,177,POINTS
+Sailing,RS:X Women,tokyo-2020,Athlete,,,False,13,Peru,PE,PER,https://olympics.com/en/athletes/maria-belen-bazo,Maria Belen BAZO,130,POINTS
+Rowing,Men's Single Sculls,tokyo-2020,Athlete,,,False,17,Peru,PE,PER,https://olympics.com/en/athletes/alvaro-torres-masias,Alvaro TORRES MASIAS,,TIME
+Karate,Women's Kumite -61kg,tokyo-2020,Athlete,,,True,7,Peru,PE,PER,https://olympics.com/en/athletes/alexandra-vanessa-grande-risco,Alexandra Vanessa GRANDE RISCO,,
+Equestrian Jumping,Jumping Individual mixed,rio-2016,Athlete,,,,55,Peru,PE,PER,https://olympics.com/en/athletes/alonso-valdez-prado,Alonso VALDEZ PRADO,,
+Shooting,25m rapid fire pistol 60 shots men,rio-2016,Athlete,,,,24,Peru,PE,PER,https://olympics.com/en/athletes/marko-carrillo,Marko CARRILLO,,
+Shooting,50m pistol 60 shots men,rio-2016,Athlete,,,,35,Peru,PE,PER,https://olympics.com/en/athletes/marko-carrillo,Marko CARRILLO,,
+Shooting,10m air pistol 60 shots men,rio-2016,Athlete,,,,43,Peru,PE,PER,https://olympics.com/en/athletes/marko-carrillo,Marko CARRILLO,,
+Shooting,trap 125 targets men,rio-2016,Athlete,,,,28,Peru,PE,PER,https://olympics.com/en/athletes/francisco-boza,Francisco BOZA,,
+Athletics,50km walk men,rio-2016,Athlete,,,,48,Peru,PE,PER,https://olympics.com/en/athletes/pavel-chihuan,Pavel CHIHUAN,16357000,TIME
+Athletics,50km walk men,rio-2016,Athlete,,,,DNF,Peru,PE,PER,https://olympics.com/en/athletes/luis-henry-campos,Luis Henry CAMPOS,,IRM
+Athletics,marathon women,rio-2016,Athlete,,,,15,Peru,PE,PER,https://olympics.com/en/athletes/gladys-tejeda,Gladys TEJEDA,8995000,TIME
+Athletics,marathon women,rio-2016,Athlete,,,,36,Peru,PE,PER,https://olympics.com/en/athletes/jovana-de-la-cruz,Jovana DE LA CRUZ,9349000,TIME
+Athletics,marathon women,rio-2016,Athlete,,,,DNF,Peru,PE,PER,https://olympics.com/en/athletes/ines-melchor,Ines MELCHOR,,IRM
+Athletics,marathon men,rio-2016,Athlete,,,,45,Peru,PE,PER,https://olympics.com/en/athletes/raul-machacuay,Raul MACHACUAY,8280000,TIME
+Athletics,marathon men,rio-2016,Athlete,,,,52,Peru,PE,PER,https://olympics.com/en/athletes/cristhian-pacheco,Cristhian PACHECO,8321000,TIME
+Athletics,marathon men,rio-2016,Athlete,,,,66,Peru,PE,PER,https://olympics.com/en/athletes/raul-pacheco,Raul PACHECO,8413000,TIME
+Athletics,20km walk men,rio-2016,Athlete,,,,41,Peru,PE,PER,https://olympics.com/en/athletes/paolo-yurivilca,Paolo YURIVILCA,5088000,TIME
+Athletics,20km race walk women,rio-2016,Athlete,,,,14,Peru,PE,PER,https://olympics.com/en/athletes/kimberly-garcia,Kimberly GARCIA,5529000,TIME
+Athletics,20km race walk women,rio-2016,Athlete,,,,51,Peru,PE,PER,https://olympics.com/en/athletes/jessica-hancco,Jessica HANCCO,5948000,TIME
+Athletics,5000m men,rio-2016,Athlete,,,,15,Peru,PE,PER,https://olympics.com/en/athletes/david-torrence,David TORRENCE,823120,TIME
+Athletics,10000m men,rio-2016,Athlete,,,,21,Peru,PE,PER,https://olympics.com/en/athletes/luis-ostos,Luis OSTOS,1682030,TIME
+Weightlifting,105kg heavyweight men,rio-2016,Athlete,,,,13,Peru,PE,PER,https://olympics.com/en/athletes/hernan-moises-viera-espinoza,Hernan Moises VIERA ESPINOZA,351,WEIGHT
+Weightlifting,53kg women,rio-2016,Athlete,,,,11,Peru,PE,PER,https://olympics.com/en/athletes/fiorella-francesca-cueva-uribe,Fiorella Francesca CUEVA URIBE,153,WEIGHT
+Rowing,single sculls 1x men,rio-2016,Athlete,,,,20,Peru,PE,PER,https://olympics.com/en/athletes/renzo-leon-garcia,Renzo LEON GARCIA,,
+Rowing,single sculls 1x women,rio-2016,Athlete,,,,31,Peru,PE,PER,https://olympics.com/en/athletes/camila-valle-granados,Camila VALLE GRANADOS,,
+Wrestling,Freestyle 58 kg women,rio-2016,Athlete,,,,18,Peru,PE,PER,https://olympics.com/en/athletes/yanet-ursula-sovero-nino,Yanet Ursula SOVERO NINO,,
+Sailing,Laser - One Person Dinghy men,rio-2016,Athlete,,,,31,Peru,PE,PER,https://olympics.com/en/athletes/stefano-peschiera,Stefano PESCHIERA,242,POINTS
+Sailing,Laser Radial - One Person Dinghy women,rio-2016,Athlete,,,,31,Peru,PE,PER,https://olympics.com/en/athletes/paloma-schmidt-gutierrez,Paloma SCHMIDT GUTIERREZ,248,POINTS
+Judo,- 60 kg men,rio-2016,Athlete,,,True,17,Peru,PE,PER,https://olympics.com/en/athletes/juan-postigos,Juan POSTIGOS,,
+Taekwondo,- 49 kg women,rio-2016,Athlete,,,True,7,Peru,PE,PER,https://olympics.com/en/athletes/julissa-diez-canseco,Julissa DIEZ CANSECO,,
+Swimming,200m freestyle women,rio-2016,Athlete,,,,39,Peru,PE,PER,https://olympics.com/en/athletes/andrea-cedron,Andrea CEDRON,,
+Swimming,100m freestyle men,rio-2016,Athlete,,,,53,Peru,PE,PER,https://olympics.com/en/athletes/nicholas-magana,Nicholas MAGANA,,
+Alpine Skiing,giant slalom women,sochi-2014,Athlete,,,,57,Peru,PE,PER,https://olympics.com/en/athletes/ornella-oettl-reyes,Ornella OETTL REYES,186320,TIME
+Alpine Skiing,giant slalom men,sochi-2014,Athlete,,,,70,Peru,PE,PER,https://olympics.com/en/athletes/manfred-oettl-reyes,Manfred OETTL REYES,200960,TIME
+Alpine Skiing,slalom women,sochi-2014,Athlete,,,,DNF,Peru,PE,PER,https://olympics.com/en/athletes/ornella-oettl-reyes,Ornella OETTL REYES,,IRM
+Alpine Skiing,slalom men,sochi-2014,Athlete,,,,DNF,Peru,PE,PER,https://olympics.com/en/athletes/manfred-oettl-reyes,Manfred OETTL REYES,,IRM
+Cross Country Skiing,15km men,sochi-2014,Athlete,,,,87,Peru,PE,PER,https://olympics.com/en/athletes/roberto-carcelen,Roberto CARCELEN,3988900,TIME
+Swimming,200m freestyle men,london-2012,Athlete,,,True,34,Peru,PE,PER,https://olympics.com/en/athletes/sebastian-jahnsen-madico,Sebastian JAHNSEN MADICO,,
+Swimming,400m freestyle women,london-2012,Athlete,,,,33,Peru,PE,PER,https://olympics.com/en/athletes/andrea-cedron,Andrea CEDRON,,
+Swimming,200m butterfly men,london-2012,Athlete,,,,25,Peru,PE,PER,https://olympics.com/en/athletes/mauricio-fiol-villanueva,Mauricio FIOL VILLANUEVA,,
+Sailing,Laser Radial - One Person Dinghy women,london-2012,Athlete,,,,39,Peru,PE,PER,https://olympics.com/en/athletes/paloma-schmidt-gutierrez,Paloma SCHMIDT GUTIERREZ,310,POINTS
+Athletics,marathon women,london-2012,Athlete,,,,24,Peru,PE,PER,https://olympics.com/en/athletes/ines-melchor,Ines MELCHOR,8934000,TIME
+Athletics,marathon women,london-2012,Athlete,,,,42,Peru,PE,PER,https://olympics.com/en/athletes/gladys-tejeda,Gladys TEJEDA,9127000,TIME
+Athletics,marathon women,london-2012,Athlete,,,,54,Peru,PE,PER,https://olympics.com/en/athletes/wilma-arizapana,Wilma ARIZAPANA,9309000,TIME
+Athletics,marathon men,london-2012,Athlete,,,,21,Peru,PE,PER,https://olympics.com/en/athletes/raul-pacheco,Raul PACHECO,8135000,TIME
+Shooting,skeet (125 targets) men,london-2012,Athlete,,,,32,Peru,PE,PER,https://olympics.com/en/athletes/nicolas-pacheco-espinosa,Nicolas PACHECO ESPINOSA,,
+Rowing,single sculls 1x men,london-2012,Athlete,,,,27,Peru,PE,PER,https://olympics.com/en/athletes/victor-aspillaga-alayza,Victor ASPILLAGA ALAYZA,,
+Weightlifting,63kg women,london-2012,Athlete,,,,7,Peru,PE,PER,https://olympics.com/en/athletes/silvana-saldarriaga,Silvana SALDARRIAGA,172,WEIGHT
+Judo,60 kg men,london-2012,Athlete,,,True,33,Peru,PE,PER,https://olympics.com/en/athletes/juan-postigos,Juan POSTIGOS,,
+Badminton,Singles men,london-2012,Athlete,,,True,17,Peru,PE,PER,https://olympics.com/en/athletes/rodrigo-pacheco-carrillo,Rodrigo PACHECO CARRILLO,,
+Badminton,Singles women,london-2012,Athlete,,,True,33,Peru,PE,PER,https://olympics.com/en/athletes/claudia-rivero-modenesi,Claudia RIVERO MODENESI,,
+Taekwondo,58 - 68 kg men,london-2012,Athlete,,,True,11,Peru,PE,PER,https://olympics.com/en/athletes/peter-lopez-santos,Peter LOPEZ SANTOS,,
+Alpine Skiing,giant slalom women,vancouver-2010,Athlete,,,,DNF,Peru,PE,PER,https://olympics.com/en/athletes/ornella-oettl-reyes,Ornella OETTL REYES,,IRM
+Alpine Skiing,giant slalom men,vancouver-2010,Athlete,,,,67,Peru,PE,PER,https://olympics.com/en/athletes/manfred-oettl-reyes,Manfred OETTL REYES,182050,TIME
+Alpine Skiing,slalom women,vancouver-2010,Athlete,,,,DNF,Peru,PE,PER,https://olympics.com/en/athletes/ornella-oettl-reyes,Ornella OETTL REYES,,IRM
+Alpine Skiing,slalom men,vancouver-2010,Athlete,,,,DSQ,Peru,PE,PER,https://olympics.com/en/athletes/manfred-oettl-reyes,Manfred OETTL REYES,,IRM
+Cross Country Skiing,15km men,vancouver-2010,Athlete,,,,94,Peru,PE,PER,https://olympics.com/en/athletes/roberto-carcelen,Roberto CARCELEN,2753600,TIME
+Fencing,foil individual women,beijing-2008,Athlete,,,,41,Peru,PE,PER,https://olympics.com/en/athletes/maria-luisa-doig,Maria Luisa DOIG,,
+Taekwondo,58 - 68 kg men,beijing-2008,Athlete,,,True,5,Peru,PE,PER,https://olympics.com/en/athletes/peter-lopez-santos,Peter LOPEZ SANTOS,,
+Wrestling,"Middleweight, Greco-Roman (≤74 kilograms) Men",beijing-2008,Athlete,,,,11,Peru,PE,PER,https://olympics.com/en/athletes/sixto-barrera,Sixto BARRERA,,
+Athletics,marathon men,beijing-2008,Athlete,,,,61,Peru,PE,PER,https://olympics.com/en/athletes/constantino-leon,Constantino LEON,8884000,TIME
+Athletics,marathon women,beijing-2008,Athlete,,,,39,Peru,PE,PER,https://olympics.com/en/athletes/maria-portilla,Maria PORTILLA,9319000,TIME
+Judo,+ 100kg (heavyweight) men,beijing-2008,Athlete,,,True,13,Peru,PE,PER,https://olympics.com/en/athletes/carlos-zegarra,Carlos ZEGARRA,,
+Weightlifting,+75kg women,beijing-2008,Athlete,,,,8,Peru,PE,PER,https://olympics.com/en/athletes/cristina-cornejo,Cristina CORNEJO,,
+Sailing,Laser Radial - One Person Dinghy women,beijing-2008,Athlete,,,,26,Peru,PE,PER,https://olympics.com/en/athletes/paloma-schmidt-gutierrez,Paloma SCHMIDT GUTIERREZ,163 ,POINTS
+Shooting,skeet (125 targets) men,beijing-2008,Athlete,,,,40,Peru,PE,PER,https://olympics.com/en/athletes/marco-matellini,Marco MATELLINI,,
+Badminton,Singles women,beijing-2008,Athlete,,,True,17,Peru,PE,PER,https://olympics.com/en/athletes/claudia-rivero-modenesi,Claudia RIVERO MODENESI,,
+Swimming,100m breaststroke women,beijing-2008,Athlete,,,,38,Peru,PE,PER,https://olympics.com/en/athletes/valeria-silva,Valeria SILVA,,
+Swimming,200m butterfly men,beijing-2008,Athlete,,,,41,Peru,PE,PER,https://olympics.com/en/athletes/emmanuel-crescimbeni,Emmanuel CRESCIMBENI,,
+Rowing,single sculls 1x men,athens-2004,Athlete,,,,21,Peru,PE,PER,https://olympics.com/en/athletes/gustavo-salcedo-1,Gustavo SALCEDO,,
+Table Tennis,Singles women,athens-2004,Athlete,,,True,49,Peru,PE,PER,https://olympics.com/en/athletes/marisol-espineira,Marisol ESPINEIRA,,
+Wrestling,"Lightweight, Greco-Roman (≤60 kilograms) Men",athens-2004,Athlete,,,,15,Peru,PE,PER,https://olympics.com/en/athletes/sidney-guzman,Sidney GUZMAN,,
+Swimming,200m butterfly men,athens-2004,Athlete,,,,28,Peru,PE,PER,https://olympics.com/en/athletes/juan-pablo-valdivieso,Juan Pablo VALDIVIESO,,
+Swimming,100m butterfly men,athens-2004,Athlete,,,,47,Peru,PE,PER,https://olympics.com/en/athletes/juan-pablo-valdivieso,Juan Pablo VALDIVIESO,,
+Swimming,100m breaststroke women,athens-2004,Athlete,,,,37,Peru,PE,PER,https://olympics.com/en/athletes/valeria-silva,Valeria SILVA,,
+Weightlifting,+75kg women,athens-2004,Athlete,,,,10,Peru,PE,PER,https://olympics.com/en/athletes/manuela-rejas,Manuela REJAS,220,WEIGHT
+Tennis,Singles men,athens-2004,Athlete,,,True,33,Peru,PE,PER,https://olympics.com/en/athletes/luis-horna,Luis HORNA,,
+Shooting,trap 125 targets men,athens-2004,Athlete,,,True,7,Peru,PE,PER,https://olympics.com/en/athletes/francisco-boza,Francisco BOZA,,
+Shooting,double trap 150 targets men,athens-2004,Athlete,,,,24,Peru,PE,PER,https://olympics.com/en/athletes/francisco-boza,Francisco BOZA,,
+Badminton,Singles women,athens-2004,Athlete,,,True,17,Peru,PE,PER,https://olympics.com/en/athletes/lorena-blanco,Lorena BLANCO,,
+Sailing,single-handed dinghy open (Laser) mixed,athens-2004,Athlete,,,,38,Peru,PE,PER,https://olympics.com/en/athletes/augusto-nicolini,Augusto NICOLINI,329.0,POINTS
+Judo,66  73kg lightweight men,sydney-2000,Athlete,,,True,13,Peru,PE,PER,https://olympics.com/en/athletes/german-velazco,German VELAZCO,,
+Volleyball,volleyball women,sydney-2000,GameTeam,,,,11,Peru,PE,PER,,,,
+Diving,3m springboard men,sydney-2000,Athlete,,,,24,Peru,PE,PER,https://olympics.com/en/athletes/abel-sanchez,Abel SANCHEZ,,
+Diving,10m platform men,sydney-2000,Athlete,,,,37,Peru,PE,PER,https://olympics.com/en/athletes/abel-sanchez,Abel SANCHEZ,,
+Shooting,trap 125 targets men,sydney-2000,Athlete,,,True,26,Peru,PE,PER,https://olympics.com/en/athletes/francisco-boza,Francisco BOZA,,
+Shooting,skeet (125 targets) men,sydney-2000,Athlete,,,,49,Peru,PE,PER,,"Juan Jorge Giha, Jr.",,
+Sailing,single-handed dinghy open (Laser) mixed,sydney-2000,Athlete,,,,33,Peru,PE,PER,https://olympics.com/en/athletes/luis-alberto-olcese,Luis Alberto OLCESE,253.0,POINTS
+Athletics,marathon women,sydney-2000,Athlete,,,,32,Peru,PE,PER,https://olympics.com/en/athletes/maria-portilla,Maria PORTILLA,9410000,TIME
+Swimming,50m freestyle women,sydney-2000,Athlete,,,,56,Peru,PE,PER,,Talía Barrios,,
+Swimming,50m freestyle men,sydney-2000,Athlete,,,True,49,Peru,PE,PER,https://olympics.com/en/athletes/luis-lopez-hartinger,Luis LOPEZ HARTINGER,,
+Swimming,200m butterfly men,sydney-2000,Athlete,,,,36,Peru,PE,PER,https://olympics.com/en/athletes/juan-pablo-valdivieso,Juan Pablo VALDIVIESO,,
+Wrestling,"Light-Heavyweight, Greco-Roman (≤90 kilograms) Men",atlanta-1996,Athlete,,,True,22,Peru,PE,PER,https://olympics.com/en/athletes/lucio-vasquez,Lucio VASQUEZ,,
+Wrestling,"Flyweight, Greco-Roman (≤52 kilograms) Men",atlanta-1996,Athlete,,,True,17,Peru,PE,PER,https://olympics.com/en/athletes/joel-basaldua,Joel BASALDUA,,
+Wrestling,"Featherweight, Freestyle (≤62 kilograms) Men",atlanta-1996,Athlete,,,,14,Peru,PE,PER,https://olympics.com/en/athletes/enrique-cubas,Enrique CUBAS,,
+Wrestling,"Middleweight, Greco-Roman (≤82 kilograms) Men",atlanta-1996,Athlete,,,True,17,Peru,PE,PER,https://olympics.com/en/athletes/felix-isisola,Felix ISISOLA,,
+Wrestling,"Light-Flyweight, Greco-Roman (≤48 kilograms) Men",atlanta-1996,Athlete,,,,18,Peru,PE,PER,https://olympics.com/en/athletes/jorge-yllescas,Jorge YLLESCAS,,
+Volleyball,volleyball women,atlanta-1996,GameTeam,,,,11,Peru,PE,PER,,,,
+Badminton,Singles men,atlanta-1996,Athlete,,,True,33,Peru,PE,PER,https://olympics.com/en/athletes/mario-carulla-schultz,Mario CARULLA SCHULTZ,,
+Table Tennis,doubles women,atlanta-1996,GameTeam,,"[('Eliana Esther GONZALEZ', 'https://olympics.com/en/athletes/eliana-esther-gonzalez'), ('Milagritos GORRITI', 'https://olympics.com/en/athletes/milagritos-gorriti')]",,25,Peru,PE,PER,,,,
+Table Tennis,Singles women,atlanta-1996,Athlete,,,True,49,Peru,PE,PER,https://olympics.com/en/athletes/eliana-esther-gonzalez,Eliana Esther GONZALEZ,,
+Athletics,marathon men,atlanta-1996,Athlete,,,,71,Peru,PE,PER,https://olympics.com/en/athletes/miguel-mallqui,Miguel MALLQUI,8756000,TIME
+Athletics,marathon women,atlanta-1996,Athlete,,,,54,Peru,PE,PER,https://olympics.com/en/athletes/marilu-salazar,Marilu SALAZAR,10138000,TIME
+Swimming,100m breaststroke men,atlanta-1996,Athlete,,,,39,Peru,PE,PER,https://olympics.com/en/athletes/jorge-enrique-arias-de-la-hoz,Jorge Enrique ARIAS DE LA HOZ,,
+Swimming,200m freestyle women,atlanta-1996,Athlete,,,,37,Peru,PE,PER,https://olympics.com/en/athletes/maritza-chiaway,Maritza CHIAWAY,,
+Swimming,800m freestyle women,atlanta-1996,Athlete,,,,26,Peru,PE,PER,https://olympics.com/en/athletes/maritza-chiaway,Maritza CHIAWAY,,
+Swimming,400m freestyle women,atlanta-1996,Athlete,,,,36,Peru,PE,PER,https://olympics.com/en/athletes/maritza-chiaway,Maritza CHIAWAY,,
+Shooting,trap 125 targets men,atlanta-1996,Athlete,,,True,49,Peru,PE,PER,https://olympics.com/en/athletes/francisco-boza,Francisco BOZA,,
+Shooting,skeet (125 targets) men,atlanta-1996,Athlete,,,True,38,Peru,PE,PER,https://olympics.com/en/athletes/esteban-boza,Esteban BOZA,,
+Shooting,skeet (125 targets) men,atlanta-1996,Athlete,,,True,42,Peru,PE,PER,,"Juan Jorge Giha, Jr.",,
+Shooting,double trap 150 targets men,atlanta-1996,Athlete,,,True,12,Peru,PE,PER,https://olympics.com/en/athletes/francisco-boza,Francisco BOZA,,
+Boxing,48kg lightflyweight men,atlanta-1996,Athlete,,,True,17,Peru,PE,PER,https://olympics.com/en/athletes/alberto-rossell,Alberto ROSSELL,,
+Canoe Slalom,K1 kayak single men,barcelona-1992,Athlete,,,,42,Peru,PE,PER,https://olympics.com/en/athletes/eric-arenas-centeno,Eric ARENAS CENTENO,170.02,TIME
+Athletics,marathon women,barcelona-1992,Athlete,,,,34,Peru,PE,PER,https://olympics.com/en/athletes/ena-guevara,Ena GUEVARA,11150000,TIME
+Weightlifting,110kg super heavyweight men,barcelona-1992,Athlete,,,,17,Peru,PE,PER,https://olympics.com/en/athletes/rolando-marchinares-codinas,Rolando MARCHINARES CODINAS,347.5,WEIGHT
+Modern Pentathlon,Individual competition men,barcelona-1992,Athlete,,,,65,Peru,PE,PER,https://olympics.com/en/athletes/luis-a-urteaga-castaneda,Luis A. URTEAGA CASTAÑEDA,"3,503",POINTS
+Shooting,trap (125 targets) mixed,barcelona-1992,Athlete,,,True,25,Peru,PE,PER,https://olympics.com/en/athletes/francisco-boza,Francisco BOZA,,
+Shooting,skeet (125 targets) mixed,barcelona-1992,Athlete,SILVER,,,2,Peru,PE,PER,,"Juan Jorge Giha, Jr.",,
+Swimming,100m backstroke men,barcelona-1992,Athlete,,,,29,Peru,PE,PER,https://olympics.com/en/athletes/alejandro-luis-alvizuri-mack,Alejandro Luis ALVIZURI MACK,,
+Swimming,100m breaststroke women,barcelona-1992,Athlete,,,,39,Peru,PE,PER,https://olympics.com/en/athletes/claudia-velasquez-ponzoni,Claudia VELASQUEZ PONZONI,,
+Swimming,200m breaststroke women,barcelona-1992,Athlete,,,,37,Peru,PE,PER,https://olympics.com/en/athletes/claudia-velasquez-ponzoni,Claudia VELASQUEZ PONZONI,,
+Swimming,200m individual medley men,barcelona-1992,Athlete,,,,45,Peru,PE,PER,https://olympics.com/en/athletes/alejandro-luis-alvizuri-mack,Alejandro Luis ALVIZURI MACK,,
+Swimming,200m backstroke men,barcelona-1992,Athlete,,,True,20,Peru,PE,PER,https://olympics.com/en/athletes/alejandro-luis-alvizuri-mack,Alejandro Luis ALVIZURI MACK,,
+Tennis,Singles men,barcelona-1992,Athlete,,,True,17,Peru,PE,PER,https://olympics.com/en/athletes/jaime-yzaga,Jaime YZAGA,,
+Tennis,Singles men,barcelona-1992,Athlete,,,True,33,Peru,PE,PER,https://olympics.com/en/athletes/pablo-guillermo-arraya,Pablo Guillermo ARRAYA,,
+Table Tennis,doubles men,barcelona-1992,GameTeam,,"[('Walter NATHAN', 'https://olympics.com/en/athletes/walter-nathan'), ('Yair NATHAN', 'https://olympics.com/en/athletes/yair-nathan')]",,25,Peru,PE,PER,,,,
+Table Tennis,doubles women,barcelona-1992,GameTeam,,"[('Eliana Esther GONZALEZ', 'https://olympics.com/en/athletes/eliana-esther-gonzalez'), ('Magaly Milagros MONTES', 'https://olympics.com/en/athletes/magaly-milagros-montes')]",,25,Peru,PE,PER,,,,
+Table Tennis,Singles women,barcelona-1992,Athlete,,,True,33,Peru,PE,PER,https://olympics.com/en/athletes/eliana-esther-gonzalez,Eliana Esther GONZALEZ,,
+Table Tennis,Singles men,barcelona-1992,Athlete,,,True,49,Peru,PE,PER,https://olympics.com/en/athletes/yair-nathan,Yair NATHAN,,
+Weightlifting,110kg super heavyweight men,seoul-1988,Athlete,,,,15,Peru,PE,PER,https://olympics.com/en/athletes/rolando-marchinares-codinas,Rolando MARCHINARES CODINAS,325,WEIGHT
+Volleyball,volleyball women,seoul-1988,GameTeam,SILVER,,,2,Peru,PE,PER,,,,
+Swimming,200m backstroke men,seoul-1988,Athlete,,,,19,Peru,PE,PER,https://olympics.com/en/athletes/alejandro-luis-alvizuri-mack,Alejandro Luis ALVIZURI MACK,,
+Swimming,100m breaststroke women,seoul-1988,Athlete,,,,28,Peru,PE,PER,https://olympics.com/en/athletes/karen-horning,Karen HORNING,,
+Swimming,100m backstroke men,seoul-1988,Athlete,,,,26,Peru,PE,PER,https://olympics.com/en/athletes/alejandro-luis-alvizuri-mack,Alejandro Luis ALVIZURI MACK,,
+Swimming,200m breaststroke women,seoul-1988,Athlete,,,,24,Peru,PE,PER,https://olympics.com/en/athletes/karen-horning,Karen HORNING,,
+Shooting,trap 125 targets men,seoul-1988,Athlete,,,,4,Peru,PE,PER,https://olympics.com/en/athletes/francisco-boza,Francisco BOZA,,
+Shooting,50m pistol 60 shots men,seoul-1988,Athlete,,,,39,Peru,PE,PER,https://olympics.com/en/athletes/carlos-hora,Carlos HORA,,
+Shooting,skeet (125 targets) men,seoul-1988,Athlete,,,True,27,Peru,PE,PER,,"Juan Jorge Giha, Jr.",,
+Shooting,10m air pistol 60 shots men,seoul-1988,Athlete,,,True,40,Peru,PE,PER,https://olympics.com/en/athletes/carlos-hora,Carlos HORA,,
+Wrestling,"Lightweight, Freestyle (≤68 kilograms) Men",seoul-1988,Athlete,,,,,Peru,PE,PER,https://olympics.com/en/athletes/edmundo-ichillumpa,Edmundo ICHILLUMPA,,
+Wrestling,"Lightweight, Greco-Roman (≤68 kilograms) Men",seoul-1988,Athlete,,,,,Peru,PE,PER,https://olympics.com/en/athletes/edmundo-ichillumpa,Edmundo ICHILLUMPA,,
+Table Tennis,Singles women,seoul-1988,Athlete,,,True,41,Peru,PE,PER,https://olympics.com/en/athletes/monica-liyau,Monica LIYAU,,
+Volleyball,volleyball women,los-angeles-1984,GameTeam,,,,4,Peru,PE,PER,,,,
+Swimming,200m individual medley men,los-angeles-1984,Athlete,,,,DSQ,Peru,PE,PER,https://olympics.com/en/athletes/fernando-rodriguez,Fernando RODRIGUEZ,,
+Swimming,100m butterfly women,los-angeles-1984,Athlete,,,,26,Peru,PE,PER,https://olympics.com/en/athletes/karin-brandes,Karin BRANDES,,
+Swimming,200m breaststroke men,los-angeles-1984,Athlete,,,,33,Peru,PE,PER,https://olympics.com/en/athletes/oscar-ortigosa,Oscar ORTIGOSA,,
+Swimming,100m freestyle men,los-angeles-1984,Athlete,,,,44,Peru,PE,PER,https://olympics.com/en/athletes/fernando-rodriguez,Fernando RODRIGUEZ,,
+Swimming,100m breaststroke men,los-angeles-1984,Athlete,,,,41,Peru,PE,PER,https://olympics.com/en/athletes/oscar-ortigosa,Oscar ORTIGOSA,,
+Swimming,200m freestyle women,los-angeles-1984,Athlete,,,,22,Peru,PE,PER,https://olympics.com/en/athletes/sandra-crousse,Sandra CROUSSE,,
+Swimming,100m freestyle women,los-angeles-1984,Athlete,,,,31,Peru,PE,PER,https://olympics.com/en/athletes/sandra-crousse,Sandra CROUSSE,,
+Swimming,200m individual medley women,los-angeles-1984,Athlete,,,,24,Peru,PE,PER,https://olympics.com/en/athletes/karin-brandes,Karin BRANDES,,
+Swimming,100m backstroke men,los-angeles-1984,Athlete,,,,34,Peru,PE,PER,https://olympics.com/en/athletes/fernando-rodriguez,Fernando RODRIGUEZ,,
+Swimming,100m backstroke men,los-angeles-1984,Athlete,,,,35,Peru,PE,PER,https://olympics.com/en/athletes/alejandro-luis-alvizuri-mack,Alejandro Luis ALVIZURI MACK,,
+Swimming,200m butterfly women,los-angeles-1984,Athlete,,,,DNS,Peru,PE,PER,https://olympics.com/en/athletes/karin-brandes,Karin BRANDES,,
+Swimming,200m backstroke men,los-angeles-1984,Athlete,,,,30,Peru,PE,PER,https://olympics.com/en/athletes/alejandro-luis-alvizuri-mack,Alejandro Luis ALVIZURI MACK,,
+Swimming,400m individual medley women,los-angeles-1984,Athlete,,,,18,Peru,PE,PER,https://olympics.com/en/athletes/karin-brandes,Karin BRANDES,,
+Equestrian Dressage,individual mixed,los-angeles-1984,Athlete,,,,35,Peru,PE,PER,https://olympics.com/en/athletes/mariam-cunningham,Mariam CUNNINGHAM,"1,317",POINTS
+Judo,95kg heavyweight men,los-angeles-1984,Athlete,,,True,11,Peru,PE,PER,https://olympics.com/en/athletes/fernando-ferreiros,Fernando FERREIROS,,
+Cycling Road,individual road race men,los-angeles-1984,Athlete,,,,DNF,Peru,PE,PER,https://olympics.com/en/athletes/ramon-zavaleta,Ramon ZAVALETA,,IRM
+Weightlifting,75  825kg lightheavyweight men,los-angeles-1984,Athlete,,,,14,Peru,PE,PER,https://olympics.com/en/athletes/juan-rejas,Juan REJAS,270,WEIGHT
+Weightlifting,825  90kg middleheavyweight men,los-angeles-1984,Athlete,,,,21,Peru,PE,PER,https://olympics.com/en/athletes/jaime-molina,Jaime MOLINA,282.5,WEIGHT
+Rowing,pair-oared shell with coxswain men,los-angeles-1984,GameTeam,,,,12,Peru,PE,PER,,,,
+Athletics,marathon women,los-angeles-1984,Athlete,,,,35,Peru,PE,PER,https://olympics.com/en/athletes/ena-guevara,Ena GUEVARA,10010000,TIME
+Shooting,skeet (125 targets) mixed,los-angeles-1984,Athlete,,,True,53,Peru,PE,PER,,"Juan Jorge Giha, Jr.",177,POINTS
+Shooting,skeet (125 targets) mixed,los-angeles-1984,Athlete,,,,55,Peru,PE,PER,https://olympics.com/en/athletes/esteban-boza,Esteban BOZA,176,POINTS
+Shooting,50m rifle 3 positions 3x20 shots women,los-angeles-1984,Athlete,,,,27,Peru,PE,PER,https://olympics.com/en/athletes/gladys-seminario,Gladys SEMINARIO,540,POINTS
+Shooting,25m rapid fire pistol 60 shots men,los-angeles-1984,Athlete,,,,19,Peru,PE,PER,https://olympics.com/en/athletes/pedro-garcia-miro-jr,Pedro GARCIA MIRO JR.,587,POINTS
+Shooting,50m rifle prone 60 shots men,los-angeles-1984,Athlete,,,True,45,Peru,PE,PER,https://olympics.com/en/athletes/justo-moreno,Justo MORENO,,
+Shooting,50m pistol 60 shots men,los-angeles-1984,Athlete,,,True,11,Peru,PE,PER,https://olympics.com/en/athletes/carlos-hora,Carlos HORA,555,POINTS
+Shooting,50m pistol 60 shots men,los-angeles-1984,Athlete,,,True,40,Peru,PE,PER,https://olympics.com/en/athletes/pedro-garcia-miro-jr,Pedro GARCIA MIRO JR.,532,POINTS
+Shooting,10m air rifle 60 shots men,los-angeles-1984,Athlete,,,,35,Peru,PE,PER,https://olympics.com/en/athletes/justo-moreno,Justo MORENO,,
+Shooting,trap (125 targets) mixed,los-angeles-1984,Athlete,SILVER,,,2,Peru,PE,PER,https://olympics.com/en/athletes/francisco-boza,Francisco BOZA,192,POINTS
+Wrestling,"Featherweight, Freestyle (≤62 kilograms) Men",los-angeles-1984,Athlete,,,,,Peru,PE,PER,https://olympics.com/en/athletes/jose-inagaki,Jose INAGAKI,,
+Wrestling,"Lightweight, Freestyle (≤68 kilograms) Men",los-angeles-1984,Athlete,,,,,Peru,PE,PER,https://olympics.com/en/athletes/ivan-valladares,Ivan VALLADARES,,
+Wrestling,"Bantamweight, Freestyle (≤57 kilograms) Men",moscow-1980,Athlete,,,,,Peru,PE,PER,https://olympics.com/en/athletes/carlos-hurtado,Carlos HURTADO,,
+Wrestling,"Super-Heavyweight, Freestyle (>100 kilograms) Men",moscow-1980,Athlete,,,,,Peru,PE,PER,https://olympics.com/en/athletes/miguel-zambrano,Miguel ZAMBRANO,,
+Volleyball,volleyball women,moscow-1980,GameTeam,,,,6,Peru,PE,PER,,,,
+Athletics,200m men,moscow-1980,Athlete,,,,DNS,Peru,PE,PER,https://olympics.com/en/athletes/jose-luis-elias,Jose Luis ELIAS,,
+Athletics,decathlon men,moscow-1980,Athlete,,,,DNF,Peru,PE,PER,https://olympics.com/en/athletes/miro-ronac,Miro RONAC,,
+Shooting,skeet (125 targets) mixed,moscow-1980,Athlete,,,,25,Peru,PE,PER,,"Juan Jorge Giha, Jr.",190,POINTS
+Shooting,skeet (125 targets) mixed,moscow-1980,Athlete,,,,40,Peru,PE,PER,https://olympics.com/en/athletes/walter-peron-allegro,Walter PERON ALLEGRO,181,POINTS
+Shooting,trap (125 targets) mixed,moscow-1980,Athlete,,,,32,Peru,PE,PER,https://olympics.com/en/athletes/francisco-boza,Francisco BOZA,169,POINTS
+Shooting,50m rifle prone 60 shots mixed,moscow-1980,Athlete,,,True,38,Peru,PE,PER,https://olympics.com/en/athletes/oscar-caceres-lopez,Oscar CACERES LOPEZ,590,POINTS
+Shooting,50m rifle prone 60 shots mixed,moscow-1980,Athlete,,,True,42,Peru,PE,PER,https://olympics.com/en/athletes/justo-moreno,Justo MORENO,589,POINTS
+Shooting,50m rifle 3 positions 3x40 shots mixed,moscow-1980,Athlete,,,,28,Peru,PE,PER,https://olympics.com/en/athletes/justo-moreno,Justo MORENO,"1,133",POINTS
+Shooting,50m rifle 3 positions 3x40 shots mixed,moscow-1980,Athlete,,,True,30,Peru,PE,PER,https://olympics.com/en/athletes/oscar-caceres-lopez,Oscar CACERES LOPEZ,"1,117",POINTS
+Shooting,25m rapid fire pistol 60 shots mixed,moscow-1980,Athlete,,,,25,Peru,PE,PER,https://olympics.com/en/athletes/pedro-garcia-miro-jr,Pedro GARCIA MIRO JR.,584,POINTS
+Shooting,50m pistol 60 shots mixed,moscow-1980,Athlete,,,True,18,Peru,PE,PER,https://olympics.com/en/athletes/carlos-hora,Carlos HORA,551,POINTS
+Swimming,800m freestyle women,moscow-1980,Athlete,,,,DNS,Peru,PE,PER,https://olympics.com/en/athletes/maria-pia-ayora,Maria Pia AYORA,,
+Volleyball,volleyball women,montreal-1976,GameTeam,,,,7,Peru,PE,PER,,,,
+Athletics,pentathlon women,montreal-1976,Athlete,,,,DNF,Peru,PE,PER,https://olympics.com/en/athletes/edith-noding,Edith NODING,,
+Cycling Road,individual road race men,munich-1972,Athlete,,,,DNF,Peru,PE,PER,https://olympics.com/en/athletes/enrique-ayllon,Enrique AYLLON,,IRM
+Cycling Road,individual road race men,munich-1972,Athlete,,,,DNF,Peru,PE,PER,https://olympics.com/en/athletes/gilberto-chocce,Gilberto CHOCCE,,IRM
+Cycling Road,individual road race men,munich-1972,Athlete,,,,DNF,Peru,PE,PER,https://olympics.com/en/athletes/fernando-cuenca,Fernando CUENCA,,IRM
+Cycling Road,individual road race men,munich-1972,Athlete,,,,DNF,Peru,PE,PER,https://olympics.com/en/athletes/carlos-espinoza,Carlos ESPINOZA,,IRM
+Cycling Road,team time trial men,munich-1972,GameTeam,,,,30,Peru,PE,PER,,,9057500,TIME
+Boxing,81kg heavyweight men,munich-1972,Athlete,,,True,5,Peru,PE,PER,https://olympics.com/en/athletes/oscar-ludena,Oscar LUDENA,,
+Boxing,63.5-67kg welterweight men,munich-1972,Athlete,,,True,17,Peru,PE,PER,https://olympics.com/en/athletes/carlos-burga,Carlos BURGA,,
+Shooting,trap (125 targets) mixed,munich-1972,Athlete,,,,49,Peru,PE,PER,,"Juan Jorge Giha, Sr.",168,POINTS
+Shooting,50m rifle prone 60 shots mixed,munich-1972,Athlete,,,,75,Peru,PE,PER,https://olympics.com/en/athletes/gladys-de-seminario-sr,Gladys DE SEMINARIO SR.,584,POINTS
+Swimming,200m freestyle men,munich-1972,Athlete,,,,DNS,Peru,PE,PER,https://olympics.com/en/athletes/juan-carlos-bello,Juan Carlos BELLO,,
+Swimming,200m individual medley men,munich-1972,Athlete,,,,7,Peru,PE,PER,https://olympics.com/en/athletes/juan-carlos-bello,Juan Carlos BELLO,131870,TIME
+Swimming,400m individual medley men,munich-1972,Athlete,,,,DNS,Peru,PE,PER,https://olympics.com/en/athletes/juan-carlos-bello,Juan Carlos BELLO,,
+Swimming,100m freestyle men,munich-1972,Athlete,,,,DNS,Peru,PE,PER,https://olympics.com/en/athletes/juan-carlos-bello,Juan Carlos BELLO,,
+Athletics,100m hurdles women,munich-1972,Athlete,,,,DNS,Peru,PE,PER,https://olympics.com/en/athletes/edith-noding,Edith NODING,,
+Athletics,pentathlon women,munich-1972,Athlete,,,,24,Peru,PE,PER,https://olympics.com/en/athletes/edith-noding,Edith NODING,24410,TIME
+Wrestling,"Super-Heavyweight, Freestyle (>100 kilograms) Men",munich-1972,Athlete,,,,,Peru,PE,PER,https://olympics.com/en/athletes/miguel-zambrano,Miguel ZAMBRANO,,
+Wrestling,"Bantamweight, Greco-Roman (≤57 kilograms) Men",munich-1972,Athlete,,,,,Peru,PE,PER,https://olympics.com/en/athletes/juan-velarde,Juan VELARDE,,
+Wrestling,"Flyweight, Greco-Roman (≤52 kilograms) Men",munich-1972,Athlete,,,,,Peru,PE,PER,https://olympics.com/en/athletes/javier-leon,Javier LEON,,
+Wrestling,"Featherweight, Greco-Roman (≤62 kilograms) Men",munich-1972,Athlete,,,,,Peru,PE,PER,https://olympics.com/en/athletes/carlos-hurtado,Carlos HURTADO,,
+Wrestling,"Featherweight, Freestyle (≤62 kilograms) Men",munich-1972,Athlete,,,,,Peru,PE,PER,https://olympics.com/en/athletes/carlos-hurtado,Carlos HURTADO,,
+Wrestling,"Super-Heavyweight, Greco-Roman (>100 kilograms) Men",munich-1972,Athlete,,,,,Peru,PE,PER,https://olympics.com/en/athletes/miguel-zambrano,Miguel ZAMBRANO,,
+Wrestling,"Flyweight, Freestyle (≤52 kilograms) Men",munich-1972,Athlete,,,,,Peru,PE,PER,https://olympics.com/en/athletes/javier-leon,Javier LEON,,
+Wrestling,"Bantamweight, Freestyle (≤57 kilograms) Men",munich-1972,Athlete,,,,,Peru,PE,PER,https://olympics.com/en/athletes/juan-velarde,Juan VELARDE,,
+Weightlifting,825  90kg total middleheavyweight men,mexico-city-1968,Athlete,,,,15,Peru,PE,PER,https://olympics.com/en/athletes/efrain-gusquiza-flores,Efrain GUSQUIZA FLORES,430,WEIGHT
+Shooting,50m rifle prone 60 shots men,mexico-city-1968,Athlete,,,,31,Peru,PE,PER,https://olympics.com/en/athletes/gladys-de-seminario-sr,Gladys DE SEMINARIO SR.,591,POINTS
+Shooting,25m rapid fire pistol 60 shots men,mexico-city-1968,Athlete,,,,41,Peru,PE,PER,https://olympics.com/en/athletes/victor-tantalean-zapata,Victor TANTALEAN ZAPATA,572,POINTS
+Shooting,skeet (125 targets) men,mexico-city-1968,Athlete,,,,5,Peru,PE,PER,https://olympics.com/en/athletes/pedro-gianella-merino,Pedro GIANELLA MERINO,194,POINTS
+Shooting,trap 125 targets men,mexico-city-1968,Athlete,,,,48,Peru,PE,PER,https://olympics.com/en/athletes/walter-peron-allegro,Walter PERON ALLEGRO,175,POINTS
+Shooting,50m pistol 60 shots men,mexico-city-1968,Athlete,,,,42,Peru,PE,PER,https://olympics.com/en/athletes/antonio-vita-segura,Antonio VITA SEGURA,,
+Swimming,200m individual medley men,mexico-city-1968,Athlete,,,,4,Peru,PE,PER,https://olympics.com/en/athletes/juan-carlos-bello,Juan Carlos BELLO,133700,TIME
+Swimming,400m individual medley men,mexico-city-1968,Athlete,,,,DNS,Peru,PE,PER,https://olympics.com/en/athletes/juan-carlos-bello,Juan Carlos BELLO,,
+Boxing,57-60kg lightweight men,mexico-city-1968,Athlete,,,True,5,Peru,PE,PER,https://olympics.com/en/athletes/luis-minami-minami,Luis MINAMI MINAMI,,
+Boxing,71-75kg men,mexico-city-1968,Athlete,,,True,16,Peru,PE,PER,https://olympics.com/en/athletes/marcelo-quinones-mayuri,Marcelo QUINONES MAYURI,,
+Volleyball,volleyball women,mexico-city-1968,GameTeam,,,,4,Peru,PE,PER,,,,
+Cycling Road,individual road race men,tokyo-1964,Athlete,,,,84,Peru,PE,PER,https://olympics.com/en/athletes/teofilo-toda-nishimura,Teofilo TODA NISHIMURA,,TIME
+Swimming,400m freestyle women,tokyo-1964,Athlete,,,,DNS,Peru,PE,PER,https://olympics.com/en/athletes/maria-rosario-de-vivanco-roca,Maria Rosario DE VIVANCO ROCA,,
+Swimming,400m individual medley women,tokyo-1964,Athlete,,,,DNS,Peru,PE,PER,https://olympics.com/en/athletes/maria-rosario-de-vivanco-roca,Maria Rosario DE VIVANCO ROCA,,
+Basketball,basketball men,tokyo-1964,GameTeam,,,,15,Peru,PE,PER,,,,
+Shooting,50m pistol 60 shots men,tokyo-1964,Athlete,,,,6,Peru,PE,PER,https://olympics.com/en/athletes/antonio-vita-segura,Antonio VITA SEGURA,,
+Shooting,50m pistol 60 shots men,tokyo-1964,Athlete,,,,50,Peru,PE,PER,https://olympics.com/en/athletes/pedro-puente-salvatierra,Pedro PUENTE SALVATIERRA,,
+Shooting,trap 125 targets men,tokyo-1964,Athlete,,,,34,Peru,PE,PER,https://olympics.com/en/athletes/gyulay-de-atzel,Gyulay DE ATZEL,182,POINTS
+Shooting,trap 125 targets men,tokyo-1964,Athlete,,,,37,Peru,PE,PER,https://olympics.com/en/athletes/enrique-dibos-cauvi,Enrique DIBOS CAUVI,178,POINTS
+Shooting,50m rifle prone 60 shots men,tokyo-1964,Athlete,,,,49,Peru,PE,PER,https://olympics.com/en/athletes/oscar-caceres-lopez,Oscar CACERES LOPEZ,584,POINTS
+Shooting,50m rifle prone 60 shots men,tokyo-1964,Athlete,,,,68,Peru,PE,PER,https://olympics.com/en/athletes/javier-caceres-lopez,Javier CACERES LOPEZ,572,POINTS
+Shooting,25m rapid fire pistol 60 shots men,tokyo-1964,Athlete,,,,34,Peru,PE,PER,https://olympics.com/en/athletes/guillermo-cornejo-calderon,Guillermo CORNEJO CALDERON,573,POINTS
+Shooting,25m rapid fire pistol 60 shots men,tokyo-1964,Athlete,,,,43,Peru,PE,PER,https://olympics.com/en/athletes/armando-malpartida,Armando MALPARTIDA,553,POINTS
+Shooting,50m rifle 3 positions 3x40 shots men,tokyo-1964,Athlete,,,,30,Peru,PE,PER,https://olympics.com/en/athletes/oscar-caceres-lopez,Oscar CACERES LOPEZ,"1,114",POINTS
+Shooting,50m rifle 3 positions 3x40 shots men,tokyo-1964,Athlete,,,,46,Peru,PE,PER,https://olympics.com/en/athletes/carlos-lastarria-escobedo,Carlos LASTARRIA ESCOBEDO,"1,086",POINTS
+Football,football men,rome-1960,GameTeam,,,,9,Peru,PE,PER,,,,
+Shooting,trap 125 targets men,rome-1960,Athlete,,,,36,Peru,PE,PER,https://olympics.com/en/athletes/enrique-dibos-cauvi,Enrique DIBOS CAUVI,155,POINTS
+Shooting,trap 125 targets men,rome-1960,Athlete,,,,,Peru,PE,PER,https://olympics.com/en/athletes/gyulay-de-atzel,Gyulay DE ATZEL,,
+Shooting,300m free rifle 3 positions 3 men,rome-1960,Athlete,,,,33,Peru,PE,PER,https://olympics.com/en/athletes/luis-albornoz-carreras,Luis ALBORNOZ CARRERAS,,
+Shooting,300m free rifle 3 positions 3 men,rome-1960,Athlete,,,,35,Peru,PE,PER,https://olympics.com/en/athletes/ruben-valdez-mayorga,Ruben VALDEZ MAYORGA,,
+Shooting,50m rifle prone 60 shots men,rome-1960,Athlete,,,,29,Peru,PE,PER,https://olympics.com/en/athletes/carlos-lastarria-escobedo,Carlos LASTARRIA ESCOBEDO,,
+Shooting,25m rapid fire pistol 60 shots men,rome-1960,Athlete,,,,36,Peru,PE,PER,https://olympics.com/en/athletes/guillermo-cornejo-calderon,Guillermo CORNEJO CALDERON,564,POINTS
+Shooting,25m rapid fire pistol 60 shots men,rome-1960,Athlete,,,,41,Peru,PE,PER,https://olympics.com/en/athletes/pedro-garcia-miro-sr,Pedro GARCIA MIRO SR.,557,POINTS
+Shooting,50m pistol 60 shots men,rome-1960,Athlete,,,,20,Peru,PE,PER,https://olympics.com/en/athletes/antonio-vita-segura,Antonio VITA SEGURA,,
+Shooting,50m pistol 60 shots men,rome-1960,Athlete,,,,37,Peru,PE,PER,https://olympics.com/en/athletes/pedro-puente-salvatierra,Pedro PUENTE SALVATIERRA,,
+Shooting,300m free rifle 3 positions 3 men,melbourne-1956,Athlete,,,,12,Peru,PE,PER,https://olympics.com/en/athletes/ruben-valdez-mayorga,Ruben VALDEZ MAYORGA,"1,044",POINTS
+Shooting,300m free rifle 3 positions 3 men,melbourne-1956,Athlete,,,,14,Peru,PE,PER,,Guillermo Baldwin,"1,040",POINTS
+Shooting,25m rapid fire pistol 60 shots men,melbourne-1956,Athlete,,,,17,Peru,PE,PER,https://olympics.com/en/athletes/guillermo-cornejo-calderon,Guillermo CORNEJO CALDERON,60,POINTS
+Shooting,25m rapid fire pistol 60 shots men,melbourne-1956,Athlete,,,,26,Peru,PE,PER,https://olympics.com/en/athletes/armando-malpartida,Armando MALPARTIDA,59,POINTS
+Shooting,50m rifle 3 positions 3x40 shots men,melbourne-1956,Athlete,,,,25,Peru,PE,PER,https://olympics.com/en/athletes/oscar-caceres-lopez,Oscar CACERES LOPEZ,"1,135",POINTS
+Shooting,50m rifle 3 positions 3x40 shots men,melbourne-1956,Athlete,,,,29,Peru,PE,PER,https://olympics.com/en/athletes/luis-coquis,Luis COQUIS,"1,124",POINTS
+Shooting,50m pistol 60 shots men,melbourne-1956,Athlete,,,,22,Peru,PE,PER,https://olympics.com/en/athletes/antonio-vita-segura,Antonio VITA SEGURA,519,POINTS
+Shooting,50m pistol 60 shots men,melbourne-1956,Athlete,,,,29,Peru,PE,PER,https://olympics.com/en/athletes/francisco-otayza,Francisco OTAYZA,503,POINTS
+Shooting,50m rifle prone 60 shots men,melbourne-1956,Athlete,,,,21,Peru,PE,PER,https://olympics.com/en/athletes/oscar-caceres-lopez,Oscar CACERES LOPEZ,594,POINTS
+Shooting,50m rifle prone 60 shots men,melbourne-1956,Athlete,,,,28,Peru,PE,PER,https://olympics.com/en/athletes/luis-coquis,Luis COQUIS,593,POINTS
+Shooting,50m rifle prone 60 shots men,london-1948,Athlete,,,,6,Peru,PE,PER,https://olympics.com/en/athletes/enrique-guillermo-baldwin-ponte,Enrique Guillermo BALDWIN PONTE,596,POINTS
+Shooting,50m rifle prone 60 shots men,london-1948,Athlete,,,,35,Peru,PE,PER,,Augusto Larrabure,586,POINTS
+Shooting,50m rifle prone 60 shots men,london-1948,Athlete,,,,41,Peru,PE,PER,,Luis Mantilla,586,POINTS
+Shooting,25m rapid fire pistol 60 shots men,london-1948,Athlete,,,,35,Peru,PE,PER,,Froilán Tantaleán,520,POINTS
+Shooting,25m rapid fire pistol 60 shots men,london-1948,Athlete,,,,37,Peru,PE,PER,,Raúl Valderrama,506,POINTS
+Shooting,25m rapid fire pistol 60 shots men,london-1948,Athlete,,,,48,Peru,PE,PER,,Enrique Mendizábal,480,POINTS
+Shooting,50m pistol 60 shots men,london-1948,Athlete,GOLD,,,1,Peru,PE,PER,,Edwin Vásquez,,
+Shooting,50m pistol 60 shots men,london-1948,Athlete,,,,27,Peru,PE,PER,,Wenceslao Salgado,,
+Shooting,50m pistol 60 shots men,london-1948,Athlete,,,,34,Peru,PE,PER,,César Injoque,,
+Shooting,300m free rifle 3 positions standing men,london-1948,Athlete,,,,20,Peru,PE,PER,https://olympics.com/en/athletes/enrique-guillermo-baldwin-ponte,Enrique Guillermo BALDWIN PONTE,"1,052",POINTS
+Boxing,51kg flyweight men,london-1948,Athlete,,,True,17,Peru,PE,PER,,Carlomagno Meneses,,
+Boxing,58  62kg lightweight men,london-1948,Athlete,,,,DNS,Peru,PE,PER,https://olympics.com/en/athletes/luis-eduardo-quintero-gutierrez,Luis Eduardo QUINTERO GUTIERREZ,,
+Boxing,54 - 58kg (featherweight) men,london-1948,Athlete,,,True,9,Peru,PE,PER,,Pedro García,,
+Boxing,73  80kg lightheavyweight men,london-1948,Athlete,,,,DNS,Peru,PE,PER,,Vicente Quiroz,,
+Boxing,51-54kg bantamweight men,london-1948,Athlete,,,True,9,Peru,PE,PER,,Salvador Rivera,,
+Weightlifting,82.5kg heavyweight men,london-1948,Athlete,,,,10,Peru,PE,PER,,Carlos Domínguez,362.5,WEIGHT
+Weightlifting,75-82.5kg total lightheavyweight men,london-1948,Athlete,,,,15,Peru,PE,PER,https://olympics.com/en/athletes/carlos-bisiak,Carlos BISIAK,332.5,WEIGHT
+Weightlifting,60-67.5kg lightweight men,london-1948,Athlete,,,,16,Peru,PE,PER,,Gonzalo Alvarado,305,WEIGHT
+Basketball,basketball men,london-1948,GameTeam,,,,10,Peru,PE,PER,,,,
+Cycling Road,individual road race men,london-1948,Athlete,,,,DNF,Peru,PE,PER,,Hernán Llerena,,IRM
+Cycling Road,individual road race men,london-1948,Athlete,,,,DNF,Peru,PE,PER,,Pedro Mathey,,IRM
+Cycling Road,individual road race men,london-1948,Athlete,,,,DNF,Peru,PE,PER,https://olympics.com/en/athletes/luis-poggi,Luis POGGI,,IRM
+Cycling Road,team time trial men,london-1948,GameTeam,,,,DNF,Peru,PE,PER,,,,IRM
+Athletics,110m hurdles men,london-1948,Athlete,,,,DNS,Peru,PE,PER,https://olympics.com/en/athletes/santiago-ferrando-dietz,Santiago FERRANDO DIETZ,,
+Athletics,discus throw men,london-1948,Athlete,,,,12,Peru,PE,PER,https://olympics.com/en/athletes/eduardo-julve-ciriaco,Eduardo JULVE CIRIACO,44.05,DISTANCE
+Athletics,decathlon men,london-1948,Athlete,,,,DNF,Peru,PE,PER,https://olympics.com/en/athletes/eduardo-julve-ciriaco,Eduardo JULVE CIRIACO,,
+Athletics,shot put men,london-1948,Athlete,,,,DNS,Peru,PE,PER,https://olympics.com/en/athletes/eduardo-julve-ciriaco,Eduardo JULVE CIRIACO,,
+Athletics,1500m men,berlin-1936,Athlete,,,,DNS,Peru,PE,PER,https://olympics.com/en/athletes/carlos-marcenaro,Carlos MARCENARO,,
+Athletics,200m men,berlin-1936,Athlete,,,,DNS,Peru,PE,PER,https://olympics.com/en/athletes/antonio-cuba,Antonio CUBA,,
+Athletics,marathon men,berlin-1936,Athlete,,,,26,Peru,PE,PER,,Gabriel Mendoza,10637800,TIME
+Athletics,marathon men,berlin-1936,Athlete,,,,35,Peru,PE,PER,https://olympics.com/en/athletes/guillermo-suarez,Guillermo SUAREZ,11298000,TIME
+Athletics,marathon men,berlin-1936,Athlete,,,,42,Peru,PE,PER,https://olympics.com/en/athletes/jose-farias-rios,José FARIAS RIOS,12804000,TIME
+Football,football men,berlin-1936,GameTeam,,,,5,Peru,PE,PER,,,,
+Diving,3m springboard men,berlin-1936,Athlete,,,,DNF,Peru,PE,PER,https://olympics.com/en/athletes/alfredo-alvarez-calderon,Alfredo ALVAREZ CALDERON,,IRM
+Modern Pentathlon,Individual competition men,berlin-1936,Athlete,,,,DNF,Peru,PE,PER,https://olympics.com/en/athletes/jose-escribens,Jose ESCRIBENS,,IRM
+Shooting,50m rifle prone 60 shots men,berlin-1936,Athlete,,,True,51,Peru,PE,PER,https://olympics.com/en/athletes/jorge-pationo-arca,Jorge PATIONO ARCA,287,POINTS
+Boxing,Flyweight men,berlin-1936,Athlete,,,,DNS,Peru,PE,PER,,Pedro Rodríguez,,
+Boxing,Lightheavyweight men,berlin-1936,Athlete,,,,DNS,Peru,PE,PER,,Eulogio Quiroz,,
+Boxing,Welterweight men,berlin-1936,Athlete,,,,DNS,Peru,PE,PER,,Zacarias Flores,,
+Boxing,Featherweight men,berlin-1936,Athlete,,,,DNS,Peru,PE,PER,,Máximo Valdez,,
+Swimming,100m backstroke men,berlin-1936,Athlete,,,,DNS,Peru,PE,PER,,Daniel Carpio,,
+Swimming,200m breaststroke men,berlin-1936,Athlete,,,,DNS,Peru,PE,PER,,Conrado Kuhn,,
+Swimming,100m freestyle men,berlin-1936,Athlete,,,,DNS,Peru,PE,PER,https://olympics.com/en/athletes/walter-ledgard,Walter LEDGARD,,
+Swimming,4x200m freestyle relay men,berlin-1936,GameTeam,,,,DNS,Peru,PE,PER,,,,
+Basketball,basketball men,berlin-1936,GameTeam,,,,7,Peru,PE,PER,,,,
+Cycling Road,individual road race men,berlin-1936,Athlete,,,,,Peru,PE,PER,https://olympics.com/en/athletes/manuel-bacigalupo,Manuel BACIGALUPO,no time,TIME
+Cycling Road,individual road race men,berlin-1936,Athlete,,,,,Peru,PE,PER,https://olympics.com/en/athletes/gregorio-caloggero,Gregorio CALOGGERO,no time,TIME
+Cycling Road,individual road race men,berlin-1936,Athlete,,,,,Peru,PE,PER,https://olympics.com/en/athletes/jose-mazzini,Jose MAZZINI,no time,TIME
+Cycling Road,individual road race men,berlin-1936,Athlete,,,,,Peru,PE,PER,https://olympics.com/en/athletes/cesar-penaranda,Cesar PENARANDA,no time,TIME
+Cycling Road,team time trial men,berlin-1936,GameTeam,,,,,Peru,PE,PER,,,,TIME
